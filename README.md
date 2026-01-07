@@ -54,6 +54,8 @@ CREATE TABLE IF NOT EXISTS staff (
 INSERT INTO staff (NAME, SALARY, DESIGNATION) VALUES ('Danny', 5000.00, 'Developer');
 ```
 
+---
+
 ## 🚀 How to Run
 
 1.  **Clone/Open Project:** Open the project folder in NetBeans.
@@ -69,5 +71,5 @@ INSERT INTO staff (NAME, SALARY, DESIGNATION) VALUES ('Danny', 5000.00, 'Develop
 
 ---
 
-###📝 License
+## 📝 License
 Created for CSC584 Lab Activity.
